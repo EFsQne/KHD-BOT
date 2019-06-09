@@ -1784,4 +1784,4 @@ DiscordJS.Emoji.prototype.convertToString = function() {
 
 Files.startBot();
 
-client.login(ayarlar.token);
+client.login(process.env.BOT_TOKEN);
