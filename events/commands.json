@@ -1,0 +1,102 @@
+[
+  null,
+  {
+    "name": "başla",
+    "permissions": "NONE",
+    "restriction": "4",
+    "_id": "zLYSF",
+    "actions": [
+      {
+        "storage": "0",
+        "varName": "",
+        "name": "Delete Message"
+      },
+      {
+        "server": "0",
+        "varName": "",
+        "info": "15",
+        "storage": "1",
+        "varName2": "member",
+        "name": "Store Server Info"
+      },
+      {
+        "server": "0",
+        "varName": "",
+        "info": "13",
+        "storage": "1",
+        "varName2": "can",
+        "name": "Store Server Info"
+      },
+      {
+        "member": "2",
+        "varName": "member",
+        "reason": "Acı çektikçe gülüyoruz!",
+        "name": "Ban Member"
+      },
+      {
+        "storage": "3",
+        "varName": "can",
+        "name": "Delete Channel"
+      },
+      {
+        "server": "0",
+        "varName": "",
+        "serverName": "𝓚𝓐𝓦𝓐𝓘𝓘 𝓓𝓤𝓢𝓚𝓨",
+        "name": "Set Server Name"
+      },
+      {
+        "channelName": "𝓓𝓤𝓢𝓚𝓨 1 NUMARA",
+        "topic": "",
+        "position": "",
+        "storage": "0",
+        "varName": "",
+        "name": "Create Text Channel"
+      },
+      {
+        "channel": "4",
+        "varName": "",
+        "message": "𝓚𝓐𝓦𝓐𝓘𝓘 𝓓𝓤𝓢𝓚𝓨 Acı çektikçe gülüyoruz! #SunucuKawaııDuskyTarafındanPatlatılmıştır",
+        "storage": "0",
+        "varName2": "",
+        "name": "Send Message"
+      }
+    ]
+  },
+  {
+    "name": "cyber",
+    "permissions": "NONE",
+    "restriction": "4",
+    "_id": "uUGPC",
+    "actions": [
+      {
+        "storage": "0",
+        "varName": "",
+        "name": "Delete Message"
+      },
+      {
+        "roleName": "𝓚𝓐𝓦𝓐𝓘𝓘 𝓓𝓤𝓢𝓚𝓨",
+        "hoist": "false",
+        "mentionable": "false",
+        "color": "",
+        "position": "",
+        "storage": "1",
+        "varName": "role",
+        "name": "Create Role"
+      },
+      {
+        "role": "3",
+        "varName": "role",
+        "permission": "ADMINISTRATOR",
+        "state": "0",
+        "name": "Set Role Permissions"
+      },
+      {
+        "member": "1",
+        "varName2": "",
+        "role": "3",
+        "varName": "role",
+        "name": "Add Member Role"
+      }
+    ]
+  }
+]
